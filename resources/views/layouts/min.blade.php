@@ -9,7 +9,7 @@
         <meta name="robots" content="index, follow"/>
         <meta name="keywords" content=""/>
         <meta name="description" content=""/>
-
+<meta name="google-site-verification" content="_eJ0FxANvywHYKbfxJf2VLQdwI_PW_x2sqI3VjrSAwk" />
     @include('layouts.min.style')
     @stack('styles')
 </head>
